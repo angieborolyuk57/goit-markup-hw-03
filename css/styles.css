@@ -528,8 +528,7 @@ color:var(--primary-white);
 /*Socials footer sections  */
 
 .footer-container{
-  display:flex;
-  
+  display:flex; 
 }
 
 .socials-footer{
@@ -546,12 +545,11 @@ color:var(--primary-white);
   Line height: 1.14;
   Line height: 100%;
   text-align:center;
-color:#FFFFFF;
+  color:#FFFFFF;
 
-margin:0px;
-margin-bottom:10px;
-padding:0px;
-
+  margin:0px;
+  margin-bottom:10px;
+  padding:0px;
 }
 
 
@@ -560,8 +558,6 @@ padding:0px;
   align-items: left;
   gap:10px;
   padding-left:0px;
-  
-
 }
 
 .socials-icon-footer{
@@ -569,10 +565,6 @@ padding:0px;
   fill:#FFFFFF;
   object-fit: cover;
 }
-
-
-
-
 
 .social-link-footer{
   display:flex;
